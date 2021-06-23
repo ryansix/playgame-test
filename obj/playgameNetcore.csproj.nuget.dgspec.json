@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chanryan/Projects/playgameNetcore/playgameNetcore/playgameNetcore.csproj": {}
+  },
+  "projects": {
+    "/Users/chanryan/Projects/playgameNetcore/playgameNetcore/playgameNetcore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chanryan/Projects/playgameNetcore/playgameNetcore/playgameNetcore.csproj",
+        "projectName": "playgameNetcore",
+        "projectPath": "/Users/chanryan/Projects/playgameNetcore/playgameNetcore/playgameNetcore.csproj",
+        "packagesPath": "/Users/chanryan/.nuget/packages/",
+        "outputPath": "/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/chanryan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

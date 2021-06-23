@@ -1,0 +1,12 @@
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/bin/Debug/netcoreapp2.1/playgameNetcore.deps.json
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/bin/Debug/netcoreapp2.1/playgameNetcore.runtimeconfig.json
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/bin/Debug/netcoreapp2.1/playgameNetcore.runtimeconfig.dev.json
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/bin/Debug/netcoreapp2.1/playgameNetcore.dll
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/bin/Debug/netcoreapp2.1/playgameNetcore.pdb
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.csproj.AssemblyReference.cache
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.AssemblyInfoInputs.cache
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.AssemblyInfo.cs
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.csproj.CoreCompileInputs.cache
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.dll
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.pdb
+/Users/chanryan/Projects/playgameNetcore/playgameNetcore/obj/Debug/netcoreapp2.1/playgameNetcore.genruntimeconfig.cache
